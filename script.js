@@ -4,9 +4,9 @@ function shortcut(s1, s2) {
     return '';
   }
 
-  const initialLetters = s1.charAt(0)+ s2.charAt(0);
+  // const initialLetters = s1.charAt(0)+ s2.charAt(0);
 
-  return initialLetters;
+  return  s1.charAt(0)+ s2.charAt(0);
 }
 
 // Do not change the code below.
